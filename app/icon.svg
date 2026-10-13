@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-130 -130 260 260">
+  <defs>
+    <radialGradient id="cnki-sphere" cx="0.36" cy="0.3" r="0.78">
+      <stop offset="0" stop-color="#f4effb"/>
+      <stop offset="0.22" stop-color="#cdb9ea"/>
+      <stop offset="0.55" stop-color="#9467cc"/>
+      <stop offset="0.82" stop-color="#6b3ba5"/>
+      <stop offset="1" stop-color="#4a2479"/>
+    </radialGradient>
+  </defs>
+  <circle cx="0" cy="0" r="112" fill="url(#cnki-sphere)"/>
+  <g transform="translate(-65.0 -57.5) scale(1.15)">
+    <path d="M106.5 41.1H75.9Q75.9 32.4 71.3 27.3Q66.7 22.2 58.3 22.2Q48.5 22.2 44 28.3Q39.4 34.4 39.4 45.3V54.7Q39.4 65.4 44 71.6Q48.5 77.8 58 77.8Q67.3 77.8 72.1 73Q76.9 68.2 76.9 59.4H106.5Q106.5 79.9 94 90.8Q81.4 101.7 58.4 101.7Q32.8 101.7 19.7 88.7Q6.5 75.6 6.5 50Q6.5 24.4 19.7 11.3Q32.8 -1.7 58.4 -1.7Q80.7 -1.7 93.6 9.4Q106.5 20.5 106.5 41.1Z" fill="#ffffff"/>
+  </g>
+  <ellipse cx="0" cy="0" rx="126" ry="58" transform="rotate(-18)" fill="none" stroke="#3a9a4c" stroke-width="13"/>
+</svg>
